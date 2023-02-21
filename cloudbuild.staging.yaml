@@ -26,8 +26,9 @@ steps:
 
 substitutions:
     _FUNCTION_PROJECT : stag-378015
-    _FUNCTION_NAME    : my-function-STAG
+    _FUNCTION_NAME    : my-function-syag
     _FUNCTION_REGION  : us-central1
     _FUNCTION_RUNTIME : nodejs14
     _ENTRY_POINT      : helloWorld
+
 
